@@ -1,0 +1,37 @@
+#rightCol{
+    display: none !important;
+}
+#leftCol{
+
+}
+.groupsCoverPhoto {
+    display: none !important;
+}
+#contentArea{
+    width: 97% !important;
+    right: 0 !important;
+}
+#u_0_4{
+    margin-top: 60px !important;
+}
+#u_0_5{
+    position: absolute;
+    top: 62px !important;
+}
+#u_0_6{
+    display: none !important;
+}
+#content_container{
+    background: white;
+    padding-top: 15px!important;
+}
+#u_0_h{
+    float: right;
+}
+#headerArea{
+    padding: 0px !important;
+}
+
+#seo_h1_tag{
+    font-weight: bold;
+}
